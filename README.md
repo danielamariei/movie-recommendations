@@ -3,6 +3,17 @@
 ## Introduction
 The implementation of a movie recommendation system on top of the Hadoop platform using Apache Pig and Apache Hive. 
 
+The purpose of this project is to provide movie recommendations based on the ratings made be multiple users. It uses a collaborative filtering algorithm in order to construct user profiles, detect the closest users and construct a set of movies that the users will most likey appreciate. The algorithm is based on the work presented in the following book (chapter 9): Title: Minning of Massive Datasets, Authors: Jure Leskovec, Anand Rajaraman and Jeffrey D, Ullman.
+ 
+ Input:
+ - a CSV file with user ratings that has the following columns at least:userId, movieId and rating,
+ - a CSV file with movie data that has the following columns at least: movieId and movieTitle,
+ - the id of the user for which we want to make the recommendations, 
+ - the size of the sample from the ratings file on which we should base our algorithm.
+  
+ Output:
+ - a list of recommended movie titles.
+
 * Project requirements: Recommendations on Movies data.
 * Movies dataset: http://grouplens.org/datasets/movielens/20m/.
 
