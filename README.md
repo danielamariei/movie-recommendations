@@ -1,7 +1,7 @@
 # Movie Recommendations
 
 ## Introduction
-The implementation of a movie recommendation system on top of the Hadoop platform using Apache Pig. 
+The implementation of a movie recommendation system on top of the Hadoop platform using Apache Pig and Apache Hive. 
 
 * Project requirements: Recommendations on Movies data.
 * Movies dataset: http://grouplens.org/datasets/movielens/20m/.
