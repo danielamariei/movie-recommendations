@@ -1,5 +1,15 @@
 # Movie Recommendations
 
+* [Introduction](https://github.com/danielamariei/movie-recommendations#introduction)
+* [Presentation](https://github.com/danielamariei/movie-recommendations#presentation)
+* [Context](https://github.com/danielamariei/movie-recommendations#context)
+* [Technologies](https://github.com/danielamariei/movie-recommendations#technologies)
+* [Architecture](https://github.com/danielamariei/movie-recommendations#architecture)
+* [Recommendation System Stages](https://github.com/danielamariei/movie-recommendations#recommendation-system-stages)
+* [Code](https://github.com/danielamariei/movie-recommendations#code)
+* [Running the Solution](https://github.com/danielamariei/movie-recommendations#running-the-solution)
+* [Dataset](https://github.com/danielamariei/movie-recommendations#dataset)
+
 ## Introduction
 The implementation of a movie recommendation system on top of the Hadoop platform using Apache Pig and Apache Hive. 
 
@@ -14,10 +24,8 @@ The purpose of this project is to provide movie recommendations based on the rat
  Output:
  - a list of recommended movie titles.
 
-* Project requirements: Recommendations on Movies data.
-* Movies dataset: http://grouplens.org/datasets/movielens/20m/.
 
-### Presentation
+## Presentation
 * [Slides are available here](https://docs.google.com/presentation/d/1flJE76cDtkiJUl0-LrqE31BscOY6Ukis4GiySqb4Z-A/edit)
 * [Detailed presentation available here](https://docs.google.com/document/d/17Jc-x1QEjIf455P8WtmnNGKnGs9ZFdbQbJJTbycSHU0/edit)
 
