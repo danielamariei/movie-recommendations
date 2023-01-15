@@ -1,0 +1,1 @@
+\frac{A * B}{\sqrt {\sum \nolimits_{e \in {A}} {e^{2}}} * \sqrt {\sum \nolimits_{e \in {B}} {e^{2}}}}
