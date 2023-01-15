@@ -16,6 +16,7 @@ The long tail phenomenon: the distinction between the physical and on-line world
 ## Technologies
 * Hadoop
 * Apache Pig
+* Apache Hive
 * Python
 
 ## Architecture 
